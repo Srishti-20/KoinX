@@ -1,4 +1,3 @@
-// controllers/cryptoController.js
 const CryptoData = require('../src/models/cryptoModules');
 
 exports.getStats = async (req, res) => {
